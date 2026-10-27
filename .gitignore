@@ -1,0 +1,4 @@
+uploads/
+cleaned/
+__pycache__/
+*.pyc
